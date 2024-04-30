@@ -1,6 +1,6 @@
 {
   "name": "@ap0nia/vite-plugin-contentlayer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "custom vite plugin for contentlayer",
   "private": true,
   "license": "MIT",
