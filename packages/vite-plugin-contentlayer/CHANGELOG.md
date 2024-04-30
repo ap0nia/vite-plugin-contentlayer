@@ -1,5 +1,11 @@
 # @ap0nia/vite-plugin-contentlayer
 
+## 0.0.3
+
+### Patch Changes
+
+- 101050f: fix: remove private from package
+
 ## 0.0.2
 
 ### Patch Changes
