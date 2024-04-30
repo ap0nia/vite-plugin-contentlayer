@@ -28,9 +28,9 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "postinstall": "changeset init && husky install",
-    "format": "nx run-many format",
-    "lint": "nx run-many lint",
-    "build": "nx run-many build",
+    "format": "nx run-many -t format",
+    "lint": "nx run-many -t lint",
+    "build": "nx run-many -t build",
     "test": "vitest",
     "release": "changeset publish"
   },

@@ -16,6 +16,9 @@ coverage/
 ### Specified by tsconfig.json
 dist/
 
+### From Nx
+.nx/
+
 # Logs.
 *.log
 .pnpm-debug.log*
