@@ -4,5 +4,19 @@
   "files": [
     "README.md",
     "CONTRIBUTORS.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "ap0nia",
+      "name": "Aponia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66761366?v=4",
+      "profile": "https://github.com/ap0nia",
+      "contributions": [
+        "maintenance"
+      ]
+    }
   ]
 }
